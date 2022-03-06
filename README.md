@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subodh Aryal</h1>
 <h3 align="center">I am a technology enthusiast from Nepal 🇳🇵</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asubodh" alt="asubodh" /></a> </p>
-
 - 🔭 I’m currently working on [kay garna xa](#private)
 
 - 🌱 I’m currently learning **react**
