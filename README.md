@@ -2,7 +2,7 @@
 <h3 align="center">I am a technology enthusiast from Nepal 🇳🇵</h3>
 
 
-- 🔭 I’m currently working on [NEPSE Extension](https://github.com/asubodh/NEPSE-Extension)
+- 🔭 I’m currently working on [SOMETING](https://github.com/asubodh)
 
 - 🌱 I’m currently learning **react**
 
