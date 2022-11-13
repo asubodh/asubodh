@@ -16,7 +16,6 @@
 <a href="https://instagram.com/_subodharyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_subodharyal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">I am Currently:</h3>
 ![Discord](https://discord.c99.nl/widget/theme-3/351768917531688961.png)
 
 <h3 align="left">Languages and Tools:</h3>
