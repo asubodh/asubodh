@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 📫 How to reach me **https://asubodh.com.np/**
+- 📫 How to reach me **[Subodh Aryal](https://asubodh.com.np)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
