@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [SOMETING](https://github.com/asubodh)
 
-- 🌱 I’m currently learning **Laravel ?**
+- 🌱 I’m currently codding **CMS ?**
 
 - 📫 How to reach me **[Subodh Aryal](https://asubodh.com.np)**
 
